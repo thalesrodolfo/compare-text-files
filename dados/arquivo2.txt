@@ -1,0 +1,7 @@
+nrInscrEstadual|noRazaoSocial|origem|vlAdicionado
+123456879|Empresa 1 teste|EFD|1000.00
+168854220|Empresa 2 aaaa|PGDASD|5500.00
+163440058|Empresa 4 tccc|DEFIS|805.00
+164872566|Empresa 5 tddd|DEFIS|150000.00
+163440999|Empresa 6 tccc|EFD|1805.00
+163440111|Empresa 7 tccc|EFD|55805.00
